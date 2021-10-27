@@ -20,10 +20,12 @@ yarn build
 yarn lint
 ```
 ### unit test
+```
 yarn test
-
+```
 ### update unit test snapshots
+```
 yarn test -u
-
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
